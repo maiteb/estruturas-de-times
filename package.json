@@ -1,0 +1,11 @@
+{
+  "name": "estruturas-de-times",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:maiteb/estruturas-de-times.git",
+  "author": "Maite Balhester <maitebalhester@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^4.3.1"
+  }
+}
