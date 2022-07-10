@@ -6,6 +6,9 @@
   "author": "Maite Balhester <maitebalhester@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "reveal.js": "^4.3.1"
-  }
+    "reveal-md": "^5.3.4"
+  },
+  "scripts": {
+    "present": "reveal-md estrutura-de-times.md --template extended-template.html --theme css/extended-robot-lung.css"
+}
 }
