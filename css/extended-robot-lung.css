@@ -2,4 +2,19 @@
 
 .line { 
   background: #FF4081;
-};
+}
+
+.reveal p {
+  text-align: left;
+}
+.reveal ul {
+  display: block;
+}
+.reveal ol {
+  display: block;
+}
+
+.reveal .author {
+  text-align: center;
+  text-transform: uppercase;
+}
